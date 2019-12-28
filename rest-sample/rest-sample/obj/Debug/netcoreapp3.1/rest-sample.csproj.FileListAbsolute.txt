@@ -1,0 +1,11 @@
+C:\Users\hirok\Codes\visual-studio\rest-sample\rest-sample\bin\Debug\netcoreapp3.1\rest-sample.exe
+C:\Users\hirok\Codes\visual-studio\rest-sample\rest-sample\bin\Debug\netcoreapp3.1\rest-sample.deps.json
+C:\Users\hirok\Codes\visual-studio\rest-sample\rest-sample\bin\Debug\netcoreapp3.1\rest-sample.runtimeconfig.json
+C:\Users\hirok\Codes\visual-studio\rest-sample\rest-sample\bin\Debug\netcoreapp3.1\rest-sample.runtimeconfig.dev.json
+C:\Users\hirok\Codes\visual-studio\rest-sample\rest-sample\bin\Debug\netcoreapp3.1\rest-sample.dll
+C:\Users\hirok\Codes\visual-studio\rest-sample\rest-sample\bin\Debug\netcoreapp3.1\rest-sample.pdb
+C:\Users\hirok\Codes\visual-studio\rest-sample\rest-sample\obj\Debug\netcoreapp3.1\rest-sample.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\visual-studio\rest-sample\rest-sample\obj\Debug\netcoreapp3.1\rest-sample.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\visual-studio\rest-sample\rest-sample\obj\Debug\netcoreapp3.1\rest-sample.AssemblyInfo.cs
+C:\Users\hirok\Codes\visual-studio\rest-sample\rest-sample\obj\Debug\netcoreapp3.1\rest-sample.dll
+C:\Users\hirok\Codes\visual-studio\rest-sample\rest-sample\obj\Debug\netcoreapp3.1\rest-sample.pdb
