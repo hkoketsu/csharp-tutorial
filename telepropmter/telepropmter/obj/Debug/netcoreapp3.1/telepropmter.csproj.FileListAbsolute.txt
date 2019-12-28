@@ -1,0 +1,11 @@
+C:\Users\hirok\Codes\visual-studio\telepropmter\telepropmter\bin\Debug\netcoreapp3.1\telepropmter.exe
+C:\Users\hirok\Codes\visual-studio\telepropmter\telepropmter\bin\Debug\netcoreapp3.1\telepropmter.deps.json
+C:\Users\hirok\Codes\visual-studio\telepropmter\telepropmter\bin\Debug\netcoreapp3.1\telepropmter.runtimeconfig.json
+C:\Users\hirok\Codes\visual-studio\telepropmter\telepropmter\bin\Debug\netcoreapp3.1\telepropmter.runtimeconfig.dev.json
+C:\Users\hirok\Codes\visual-studio\telepropmter\telepropmter\bin\Debug\netcoreapp3.1\telepropmter.dll
+C:\Users\hirok\Codes\visual-studio\telepropmter\telepropmter\bin\Debug\netcoreapp3.1\telepropmter.pdb
+C:\Users\hirok\Codes\visual-studio\telepropmter\telepropmter\obj\Debug\netcoreapp3.1\telepropmter.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\visual-studio\telepropmter\telepropmter\obj\Debug\netcoreapp3.1\telepropmter.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\visual-studio\telepropmter\telepropmter\obj\Debug\netcoreapp3.1\telepropmter.AssemblyInfo.cs
+C:\Users\hirok\Codes\visual-studio\telepropmter\telepropmter\obj\Debug\netcoreapp3.1\telepropmter.dll
+C:\Users\hirok\Codes\visual-studio\telepropmter\telepropmter\obj\Debug\netcoreapp3.1\telepropmter.pdb
